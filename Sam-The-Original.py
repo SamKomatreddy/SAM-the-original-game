@@ -1,6 +1,5 @@
 #Sam Komatreddy
-
-
+input("Do you like SAM?")
 print("Welcome to the !!SAM game!!")
 print("Welcome to the !!SAM game!!")
 print("Welcome to the !!SAM game!!")
